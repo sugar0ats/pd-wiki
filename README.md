@@ -66,18 +66,17 @@ Then open <http://localhost:4000>.
 
 ## Status
 
-| Part | Status |
-|:--|:--|
-| 1. Fundamentals | Written |
-| 2. The Flow and Its Inputs | Written |
-| 3. Timing | Written |
-| 4. Implementation | Placeholder pages only |
-| 5. Signoff | Placeholder pages only |
-| 6. Tools | Placeholder pages only |
-| 7. Study and Reference | Glossary written; rest placeholder |
+All seven parts are written. 30 pages, 243 figures, every internal link and anchor verified.
 
-Placeholder pages exist so that cross-links from written pages resolve rather than 404.
-Each one lists its planned contents.
+| Part | Pages |
+|:--|:--|
+| 1. Fundamentals | MOSFETs and CMOS logic; cells, macros, sites, rows, tracks, utilisation |
+| 2. The Flow and Its Inputs | The ASIC design flow; design inputs and file formats |
+| 3. Timing | STA basics; clocks, skew and latency; variation, corners and analysis modes |
+| 4. Implementation | Floorplanning; power planning; placement; CTS; routing |
+| 5. Signoff | Physical verification; signal integrity; power and rail analysis; timing closure and ECO |
+| 6. Tools | Innovus setup and design import; Innovus command reference |
+| 7. Study and Reference | Glossary; interview questions; learning plan; open questions |
 
 ---
 

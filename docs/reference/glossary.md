@@ -67,7 +67,7 @@ the matching extraction settings. →
 [Variation]({{ site.baseurl }}/docs/timing/variation/#corners-modes-and-mmmc)
 
 **CPF (Common Power Format)** — A file describing power intent for multi-voltage and
-low-power designs. → [Design inputs]({{ site.baseurl }}/docs/flow/design-inputs/#cpf--upf-power-intent)
+low-power designs. → [Design inputs]({{ site.baseurl }}/docs/flow/design-inputs/#cpf-upf-power-intent)
 
 **Crosstalk** — Noise coupled between adjacent nets through their mutual capacitance,
 affecting both delay and functional correctness. →

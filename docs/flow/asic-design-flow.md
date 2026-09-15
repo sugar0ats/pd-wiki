@@ -87,7 +87,7 @@ skew. This is obviously false, and deliberately so. It lets early stages focus e
 
 **After CTS**, the clock tree physically exists — real buffers, real wires, real
 [insertion delay]({{ site.baseurl }}/docs/timing/clocks/#clock-latency-insertion-delay), real
-[skew]({{ site.baseurl }}/docs/timing/clocks/#clock-skew). Timing analysis from that point
+[skew]({{ site.baseurl }}/docs/timing/clocks/#skew). Timing analysis from that point
 on uses the propagated clock, and the numbers change, sometimes dramatically.
 
 This is why the same design gets timed repeatedly at different points in the flow, and why

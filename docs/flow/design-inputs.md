@@ -273,6 +273,7 @@ delays rather than idealised ones.
 ---
 
 ## CPF / UPF (power intent)
+{: #cpf-upf-power-intent }
 
 **CPF** (Common Power Format) and **UPF** (Unified Power Format) describe **power intent**:
 the things a netlist cannot express about how power is organised. They matter for designs
