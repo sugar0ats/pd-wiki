@@ -1,0 +1,1326 @@
+{
+  "topics": {
+    "antenna-violations": [
+      {
+        "index": 1,
+        "source": "image 231.png",
+        "file": "assets/img/antenna-violations-01.png"
+      }
+    ],
+    "cmos-inverter": [
+      {
+        "index": 1,
+        "source": "Screenshot_2025-10-07_at_1.27.47_AM.png",
+        "file": "assets/img/cmos-inverter-01.png"
+      }
+    ],
+    "cmos-nand": [
+      {
+        "index": 1,
+        "source": "Screenshot_2025-10-07_at_1.33.31_AM.png",
+        "file": "assets/img/cmos-nand-01.png"
+      }
+    ],
+    "cts": [
+      {
+        "index": 1,
+        "source": "image 102.png",
+        "file": "assets/img/cts-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 103.png",
+        "file": "assets/img/cts-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 104.png",
+        "file": "assets/img/cts-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 105.png",
+        "file": "assets/img/cts-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 106.png",
+        "file": "assets/img/cts-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 107.png",
+        "file": "assets/img/cts-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 108.png",
+        "file": "assets/img/cts-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 109.png",
+        "file": "assets/img/cts-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 110.png",
+        "file": "assets/img/cts-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 111.png",
+        "file": "assets/img/cts-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 112.png",
+        "file": "assets/img/cts-11.png"
+      },
+      {
+        "index": 12,
+        "source": "image 113.png",
+        "file": "assets/img/cts-12.png"
+      },
+      {
+        "index": 13,
+        "source": "image 114.png",
+        "file": "assets/img/cts-13.png"
+      },
+      {
+        "index": 14,
+        "source": "image 115.png",
+        "file": "assets/img/cts-14.png"
+      },
+      {
+        "index": 15,
+        "source": "image 116.png",
+        "file": "assets/img/cts-15.png"
+      },
+      {
+        "index": 16,
+        "source": "image 117.png",
+        "file": "assets/img/cts-16.png"
+      },
+      {
+        "index": 17,
+        "source": "image 118.png",
+        "file": "assets/img/cts-17.png"
+      },
+      {
+        "index": 18,
+        "source": "image 119.png",
+        "file": "assets/img/cts-18.png"
+      },
+      {
+        "index": 19,
+        "source": "image 120.png",
+        "file": "assets/img/cts-19.png"
+      },
+      {
+        "index": 20,
+        "source": "image 121.png",
+        "file": "assets/img/cts-20.png"
+      },
+      {
+        "index": 21,
+        "source": "image 122.png",
+        "file": "assets/img/cts-21.png"
+      },
+      {
+        "index": 22,
+        "source": "image 123.png",
+        "file": "assets/img/cts-22.png"
+      },
+      {
+        "index": 23,
+        "source": "image 124.png",
+        "file": "assets/img/cts-23.png"
+      },
+      {
+        "index": 24,
+        "source": "image 125.png",
+        "file": "assets/img/cts-24.png"
+      },
+      {
+        "index": 25,
+        "source": "image 126.png",
+        "file": "assets/img/cts-25.png"
+      },
+      {
+        "index": 26,
+        "source": "image 127.png",
+        "file": "assets/img/cts-26.png"
+      },
+      {
+        "index": 27,
+        "source": "image 128.png",
+        "file": "assets/img/cts-27.png"
+      },
+      {
+        "index": 28,
+        "source": "image 129.png",
+        "file": "assets/img/cts-28.png"
+      },
+      {
+        "index": 29,
+        "source": "image 130.png",
+        "file": "assets/img/cts-29.png"
+      },
+      {
+        "index": 30,
+        "source": "image 131.png",
+        "file": "assets/img/cts-30.png"
+      },
+      {
+        "index": 31,
+        "source": "image 132.png",
+        "file": "assets/img/cts-31.png"
+      }
+    ],
+    "cadence-innovus-block-implementation-certification": [
+      {
+        "index": 1,
+        "source": "image 36.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 37.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 38.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 39.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 40.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 41.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 42.png",
+        "file": "assets/img/cadence-innovus-block-implementation-certification-07.png"
+      }
+    ],
+    "cell-padding": [
+      {
+        "index": 1,
+        "source": "image 133.png",
+        "file": "assets/img/cell-padding-01.png"
+      }
+    ],
+    "clock-skew": [
+      {
+        "index": 1,
+        "source": "image 27.png",
+        "file": "assets/img/clock-skew-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 28.png",
+        "file": "assets/img/clock-skew-02.png"
+      }
+    ],
+    "concurrent-macro-and-standard-cell-placement": [
+      {
+        "index": 1,
+        "source": "image 140.png",
+        "file": "assets/img/concurrent-macro-and-standard-cell-placement-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 141.png",
+        "file": "assets/img/concurrent-macro-and-standard-cell-placement-02.png"
+      }
+    ],
+    "congestion": [
+      {
+        "index": 1,
+        "source": "image 143.png",
+        "file": "assets/img/congestion-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 144.png",
+        "file": "assets/img/congestion-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 145.png",
+        "file": "assets/img/congestion-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 146.png",
+        "file": "assets/img/congestion-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 147.png",
+        "file": "assets/img/congestion-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 148.png",
+        "file": "assets/img/congestion-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 149.png",
+        "file": "assets/img/congestion-07.png"
+      }
+    ],
+    "crosstalk": [
+      {
+        "index": 1,
+        "source": "image 237.png",
+        "file": "assets/img/crosstalk-01.png"
+      }
+    ],
+    "drc-design-rule-check": [
+      {
+        "index": 1,
+        "source": "image 234.png",
+        "file": "assets/img/drc-design-rule-check-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 235.png",
+        "file": "assets/img/drc-design-rule-check-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 236.png",
+        "file": "assets/img/drc-design-rule-check-03.png"
+      }
+    ],
+    "design-flow": [
+      {
+        "index": 1,
+        "source": "Screenshot_2025-10-07_at_1.05.58_AM.png",
+        "file": "assets/img/design-flow-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 6.png",
+        "file": "assets/img/design-flow-02.png"
+      }
+    ],
+    "detail-route": [
+      {
+        "index": 1,
+        "source": "image 203.png",
+        "file": "assets/img/detail-route-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 204.png",
+        "file": "assets/img/detail-route-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 205.png",
+        "file": "assets/img/detail-route-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 206.png",
+        "file": "assets/img/detail-route-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 207.png",
+        "file": "assets/img/detail-route-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 208.png",
+        "file": "assets/img/detail-route-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 209.png",
+        "file": "assets/img/detail-route-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 210.png",
+        "file": "assets/img/detail-route-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 211.png",
+        "file": "assets/img/detail-route-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 212.png",
+        "file": "assets/img/detail-route-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 213.png",
+        "file": "assets/img/detail-route-11.png"
+      },
+      {
+        "index": 12,
+        "source": "image 214.png",
+        "file": "assets/img/detail-route-12.png"
+      },
+      {
+        "index": 13,
+        "source": "image 215.png",
+        "file": "assets/img/detail-route-13.png"
+      },
+      {
+        "index": 14,
+        "source": "image 216.png",
+        "file": "assets/img/detail-route-14.png"
+      },
+      {
+        "index": 15,
+        "source": "image 217.png",
+        "file": "assets/img/detail-route-15.png"
+      },
+      {
+        "index": 16,
+        "source": "image 218.png",
+        "file": "assets/img/detail-route-16.png"
+      },
+      {
+        "index": 17,
+        "source": "image 219.png",
+        "file": "assets/img/detail-route-17.png"
+      },
+      {
+        "index": 18,
+        "source": "image 220.png",
+        "file": "assets/img/detail-route-18.png"
+      },
+      {
+        "index": 19,
+        "source": "image 221.png",
+        "file": "assets/img/detail-route-19.png"
+      },
+      {
+        "index": 20,
+        "source": "image 222.png",
+        "file": "assets/img/detail-route-20.png"
+      },
+      {
+        "index": 21,
+        "source": "image 223.png",
+        "file": "assets/img/detail-route-21.png"
+      },
+      {
+        "index": 22,
+        "source": "image 224.png",
+        "file": "assets/img/detail-route-22.png"
+      },
+      {
+        "index": 23,
+        "source": "image 225.png",
+        "file": "assets/img/detail-route-23.png"
+      }
+    ],
+    "eco-engineering-change-order": [
+      {
+        "index": 1,
+        "source": "image 191.png",
+        "file": "assets/img/eco-engineering-change-order-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 192.png",
+        "file": "assets/img/eco-engineering-change-order-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 193.png",
+        "file": "assets/img/eco-engineering-change-order-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 194.png",
+        "file": "assets/img/eco-engineering-change-order-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 195.png",
+        "file": "assets/img/eco-engineering-change-order-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 196.png",
+        "file": "assets/img/eco-engineering-change-order-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 197.png",
+        "file": "assets/img/eco-engineering-change-order-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 198.png",
+        "file": "assets/img/eco-engineering-change-order-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 199.png",
+        "file": "assets/img/eco-engineering-change-order-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 200.png",
+        "file": "assets/img/eco-engineering-change-order-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 201.png",
+        "file": "assets/img/eco-engineering-change-order-11.png"
+      },
+      {
+        "index": 12,
+        "source": "image 202.png",
+        "file": "assets/img/eco-engineering-change-order-12.png"
+      }
+    ],
+    "em-electromigration": [
+      {
+        "index": 1,
+        "source": "image 186.png",
+        "file": "assets/img/em-electromigration-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 187.png",
+        "file": "assets/img/em-electromigration-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 188.png",
+        "file": "assets/img/em-electromigration-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 189.png",
+        "file": "assets/img/em-electromigration-04.png"
+      }
+    ],
+    "extraction-tool": [
+      {
+        "index": 1,
+        "source": "image.png",
+        "file": "assets/img/extraction-tool-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 1.png",
+        "file": "assets/img/extraction-tool-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 2.png",
+        "file": "assets/img/extraction-tool-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 3.png",
+        "file": "assets/img/extraction-tool-04.png"
+      }
+    ],
+    "fanin-and-fanout": [
+      {
+        "index": 1,
+        "source": "image 190.png",
+        "file": "assets/img/fanin-and-fanout-01.png"
+      }
+    ],
+    "floorplanning": [
+      {
+        "index": 1,
+        "source": "image 53.png",
+        "file": "assets/img/floorplanning-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 54.png",
+        "file": "assets/img/floorplanning-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 55.png",
+        "file": "assets/img/floorplanning-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 56.png",
+        "file": "assets/img/floorplanning-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 57.png",
+        "file": "assets/img/floorplanning-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 58.png",
+        "file": "assets/img/floorplanning-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 59.png",
+        "file": "assets/img/floorplanning-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 60.png",
+        "file": "assets/img/floorplanning-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 61.png",
+        "file": "assets/img/floorplanning-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 62.png",
+        "file": "assets/img/floorplanning-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 63.png",
+        "file": "assets/img/floorplanning-11.png"
+      }
+    ],
+    "gdsii": [
+      {
+        "index": 1,
+        "source": "image 238.png",
+        "file": "assets/img/gdsii-01.png"
+      }
+    ],
+    "gate-level-netlist": [
+      {
+        "index": 1,
+        "source": "image 52.png",
+        "file": "assets/img/gate-level-netlist-01.png"
+      }
+    ],
+    "glitches": [
+      {
+        "index": 1,
+        "source": "image 227.png",
+        "file": "assets/img/glitches-01.png"
+      }
+    ],
+    "innovus-commands": [
+      {
+        "index": 1,
+        "source": "image 43.png",
+        "file": "assets/img/innovus-commands-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 44.png",
+        "file": "assets/img/innovus-commands-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 45.png",
+        "file": "assets/img/innovus-commands-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 46.png",
+        "file": "assets/img/innovus-commands-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 47.png",
+        "file": "assets/img/innovus-commands-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 48.png",
+        "file": "assets/img/innovus-commands-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 49.png",
+        "file": "assets/img/innovus-commands-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 50.png",
+        "file": "assets/img/innovus-commands-08.png"
+      }
+    ],
+    "jtag": [
+      {
+        "index": 1,
+        "source": "image 97.png",
+        "file": "assets/img/jtag-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 98.png",
+        "file": "assets/img/jtag-02.png"
+      }
+    ],
+    "library-exchange-file-lef": [
+      {
+        "index": 1,
+        "source": "image 69.png",
+        "file": "assets/img/library-exchange-file-lef-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 70.png",
+        "file": "assets/img/library-exchange-file-lef-02.png"
+      }
+    ],
+    "lockup-latches": [
+      {
+        "index": 1,
+        "source": "image 158.png",
+        "file": "assets/img/lockup-latches-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 159.png",
+        "file": "assets/img/lockup-latches-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 160.png",
+        "file": "assets/img/lockup-latches-03.png"
+      }
+    ],
+    "mmmc": [
+      {
+        "index": 1,
+        "source": "image 29.png",
+        "file": "assets/img/mmmc-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 30.png",
+        "file": "assets/img/mmmc-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 31.png",
+        "file": "assets/img/mmmc-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 32.png",
+        "file": "assets/img/mmmc-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 33.png",
+        "file": "assets/img/mmmc-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 34.png",
+        "file": "assets/img/mmmc-06.png"
+      }
+    ],
+    "mosfets": [
+      {
+        "index": 1,
+        "source": "Screenshot_2025-10-07_at_1.22.31_AM.png",
+        "file": "assets/img/mosfets-01.png"
+      }
+    ],
+    "methods-for-fixing-si-signal-integrity-issues": [
+      {
+        "index": 1,
+        "source": "image 230.png",
+        "file": "assets/img/methods-for-fixing-si-signal-integrity-issues-01.png"
+      }
+    ],
+    "methods-for-fixing-timing-issues": [
+      {
+        "index": 1,
+        "source": "image 7.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 8.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 9.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 10.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 11.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 12.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 13.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 14.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 15.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 16.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 17.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-11.png"
+      },
+      {
+        "index": 12,
+        "source": "image 18.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-12.png"
+      },
+      {
+        "index": 13,
+        "source": "image 19.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-13.png"
+      },
+      {
+        "index": 14,
+        "source": "image 20.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-14.png"
+      },
+      {
+        "index": 15,
+        "source": "image 21.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-15.png"
+      },
+      {
+        "index": 16,
+        "source": "image 22.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-16.png"
+      },
+      {
+        "index": 17,
+        "source": "image 23.png",
+        "file": "assets/img/methods-for-fixing-timing-issues-17.png"
+      }
+    ],
+    "methods-for-optimizing-ppa": [
+      {
+        "index": 1,
+        "source": "image 169.png",
+        "file": "assets/img/methods-for-optimizing-ppa-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 170.png",
+        "file": "assets/img/methods-for-optimizing-ppa-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 171.png",
+        "file": "assets/img/methods-for-optimizing-ppa-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 172.png",
+        "file": "assets/img/methods-for-optimizing-ppa-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 173.png",
+        "file": "assets/img/methods-for-optimizing-ppa-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 174.png",
+        "file": "assets/img/methods-for-optimizing-ppa-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 175.png",
+        "file": "assets/img/methods-for-optimizing-ppa-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 176.png",
+        "file": "assets/img/methods-for-optimizing-ppa-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 177.png",
+        "file": "assets/img/methods-for-optimizing-ppa-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 178.png",
+        "file": "assets/img/methods-for-optimizing-ppa-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 179.png",
+        "file": "assets/img/methods-for-optimizing-ppa-11.png"
+      },
+      {
+        "index": 12,
+        "source": "image 180.png",
+        "file": "assets/img/methods-for-optimizing-ppa-12.png"
+      },
+      {
+        "index": 13,
+        "source": "image 181.png",
+        "file": "assets/img/methods-for-optimizing-ppa-13.png"
+      },
+      {
+        "index": 14,
+        "source": "image 182.png",
+        "file": "assets/img/methods-for-optimizing-ppa-14.png"
+      },
+      {
+        "index": 15,
+        "source": "image 183.png",
+        "file": "assets/img/methods-for-optimizing-ppa-15.png"
+      },
+      {
+        "index": 16,
+        "source": "image 184.png",
+        "file": "assets/img/methods-for-optimizing-ppa-16.png"
+      },
+      {
+        "index": 17,
+        "source": "image 185.png",
+        "file": "assets/img/methods-for-optimizing-ppa-17.png"
+      }
+    ],
+    "ndr-non-default-rules": [
+      {
+        "index": 1,
+        "source": "image 226.png",
+        "file": "assets/img/ndr-non-default-rules-01.png"
+      }
+    ],
+    "ocv-on-chip-variation": [
+      {
+        "index": 1,
+        "source": "image 161.png",
+        "file": "assets/img/ocv-on-chip-variation-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 162.png",
+        "file": "assets/img/ocv-on-chip-variation-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 163.png",
+        "file": "assets/img/ocv-on-chip-variation-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 164.png",
+        "file": "assets/img/ocv-on-chip-variation-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 165.png",
+        "file": "assets/img/ocv-on-chip-variation-05.png"
+      }
+    ],
+    "pba-vs-gba": [
+      {
+        "index": 1,
+        "source": "image 157.png",
+        "file": "assets/img/pba-vs-gba-01.png"
+      }
+    ],
+    "performing-timing-analysis": [
+      {
+        "index": 1,
+        "source": "image 150.png",
+        "file": "assets/img/performing-timing-analysis-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 151.png",
+        "file": "assets/img/performing-timing-analysis-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 152.png",
+        "file": "assets/img/performing-timing-analysis-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 153.png",
+        "file": "assets/img/performing-timing-analysis-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 154.png",
+        "file": "assets/img/performing-timing-analysis-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 155.png",
+        "file": "assets/img/performing-timing-analysis-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 156.png",
+        "file": "assets/img/performing-timing-analysis-07.png"
+      }
+    ],
+    "physical-cells": [
+      {
+        "index": 1,
+        "source": "image 71.png",
+        "file": "assets/img/physical-cells-01.png"
+      }
+    ],
+    "pin-assignment-information": [
+      {
+        "index": 1,
+        "source": "image 64.png",
+        "file": "assets/img/pin-assignment-information-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 65.png",
+        "file": "assets/img/pin-assignment-information-02.png"
+      }
+    ],
+    "placement": [
+      {
+        "index": 1,
+        "source": "image 87.png",
+        "file": "assets/img/placement-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 88.png",
+        "file": "assets/img/placement-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 89.png",
+        "file": "assets/img/placement-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 90.png",
+        "file": "assets/img/placement-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 91.png",
+        "file": "assets/img/placement-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 92.png",
+        "file": "assets/img/placement-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 93.png",
+        "file": "assets/img/placement-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 94.png",
+        "file": "assets/img/placement-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 95.png",
+        "file": "assets/img/placement-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 96.png",
+        "file": "assets/img/placement-10.png"
+      }
+    ],
+    "power-planning": [
+      {
+        "index": 1,
+        "source": "image 72.png",
+        "file": "assets/img/power-planning-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 73.png",
+        "file": "assets/img/power-planning-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 74.png",
+        "file": "assets/img/power-planning-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 75.png",
+        "file": "assets/img/power-planning-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 76.png",
+        "file": "assets/img/power-planning-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 77.png",
+        "file": "assets/img/power-planning-06.png"
+      },
+      {
+        "index": 7,
+        "source": "image 78.png",
+        "file": "assets/img/power-planning-07.png"
+      },
+      {
+        "index": 8,
+        "source": "image 79.png",
+        "file": "assets/img/power-planning-08.png"
+      },
+      {
+        "index": 9,
+        "source": "image 80.png",
+        "file": "assets/img/power-planning-09.png"
+      },
+      {
+        "index": 10,
+        "source": "image 81.png",
+        "file": "assets/img/power-planning-10.png"
+      },
+      {
+        "index": 11,
+        "source": "image 82.png",
+        "file": "assets/img/power-planning-11.png"
+      },
+      {
+        "index": 12,
+        "source": "image 83.png",
+        "file": "assets/img/power-planning-12.png"
+      },
+      {
+        "index": 13,
+        "source": "image 84.png",
+        "file": "assets/img/power-planning-13.png"
+      }
+    ],
+    "report-power-analysis": [
+      {
+        "index": 1,
+        "source": "image 86.png",
+        "file": "assets/img/report-power-analysis-01.png"
+      }
+    ],
+    "report-rail-analysis": [
+      {
+        "index": 1,
+        "source": "image 85.png",
+        "file": "assets/img/report-rail-analysis-01.png"
+      }
+    ],
+    "route": [
+      {
+        "index": 1,
+        "source": "image 166.png",
+        "file": "assets/img/route-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 167.png",
+        "file": "assets/img/route-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 168.png",
+        "file": "assets/img/route-03.png"
+      }
+    ],
+    "routing-tracks": [
+      {
+        "index": 1,
+        "source": "image 68.png",
+        "file": "assets/img/routing-tracks-01.png"
+      }
+    ],
+    "sdc-synopsys-design-constraint": [
+      {
+        "index": 1,
+        "source": "image 4.png",
+        "file": "assets/img/sdc-synopsys-design-constraint-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 5.png",
+        "file": "assets/img/sdc-synopsys-design-constraint-02.png"
+      }
+    ],
+    "sdf": [
+      {
+        "index": 1,
+        "source": "image 35.png",
+        "file": "assets/img/sdf-01.png"
+      }
+    ],
+    "scan-chain": [
+      {
+        "index": 1,
+        "source": "image 134.png",
+        "file": "assets/img/scan-chain-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 135.png",
+        "file": "assets/img/scan-chain-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 136.png",
+        "file": "assets/img/scan-chain-03.png"
+      },
+      {
+        "index": 4,
+        "source": "image 137.png",
+        "file": "assets/img/scan-chain-04.png"
+      },
+      {
+        "index": 5,
+        "source": "image 138.png",
+        "file": "assets/img/scan-chain-05.png"
+      },
+      {
+        "index": 6,
+        "source": "image 139.png",
+        "file": "assets/img/scan-chain-06.png"
+      }
+    ],
+    "shielding": [
+      {
+        "index": 1,
+        "source": "image 228.png",
+        "file": "assets/img/shielding-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 229.png",
+        "file": "assets/img/shielding-02.png"
+      }
+    ],
+    "sites-and-rows": [
+      {
+        "index": 1,
+        "source": "image 51.png",
+        "file": "assets/img/sites-and-rows-01.png"
+      }
+    ],
+    "spare-cells": [
+      {
+        "index": 1,
+        "source": "image 142.png",
+        "file": "assets/img/spare-cells-01.png"
+      }
+    ],
+    "transition-time": [
+      {
+        "index": 1,
+        "source": "image 26.png",
+        "file": "assets/img/transition-time-01.png"
+      }
+    ],
+    "types-of-blockages-routing-and-placement": [
+      {
+        "index": 1,
+        "source": "image 99.png",
+        "file": "assets/img/types-of-blockages-routing-and-placement-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 100.png",
+        "file": "assets/img/types-of-blockages-routing-and-placement-02.png"
+      },
+      {
+        "index": 3,
+        "source": "image 101.png",
+        "file": "assets/img/types-of-blockages-routing-and-placement-03.png"
+      }
+    ],
+    "unateness": [
+      {
+        "index": 1,
+        "source": "image 24.png",
+        "file": "assets/img/unateness-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 25.png",
+        "file": "assets/img/unateness-02.png"
+      }
+    ],
+    "utilization": [
+      {
+        "index": 1,
+        "source": "image 66.png",
+        "file": "assets/img/utilization-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 67.png",
+        "file": "assets/img/utilization-02.png"
+      }
+    ],
+    "via-ladders-via-stacks-and-via-pillars": [
+      {
+        "index": 1,
+        "source": "image 232.png",
+        "file": "assets/img/via-ladders-via-stacks-and-via-pillars-01.png"
+      },
+      {
+        "index": 2,
+        "source": "image 233.png",
+        "file": "assets/img/via-ladders-via-stacks-and-via-pillars-02.png"
+      }
+    ]
+  },
+  "unreferenced": []
+}
