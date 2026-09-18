@@ -12,6 +12,6 @@ Material for revision rather than for learning a topic the first time: a glossar
 
 ## Pages in this part
 
-2. **[Interview Questions]({{ site.baseurl }}/docs/reference/interview-questions/)** — Physical design interview questions organised by topic, with pointers to the pages that answer them.
-3. **[Learning Plan and Further Reading]({{ site.baseurl }}/docs/reference/learning-plan/)** — Textbooks, roadmaps, and project ideas for going deeper.
-4. **[Open Questions]({{ site.baseurl }}/docs/reference/open-questions/)** — Things this wiki does not yet answer. Contributions welcome.
+2. **[Interview Questions]({{ site.baseurl }}/docs/reference/interview-questions.html)** — Physical design interview questions organised by topic, with pointers to the pages that answer them.
+3. **[Learning Plan and Further Reading]({{ site.baseurl }}/docs/reference/learning-plan.html)** — Textbooks, roadmaps, and project ideas for going deeper.
+4. **[Open Questions]({{ site.baseurl }}/docs/reference/open-questions.html)** — Things this wiki does not yet answer. Contributions welcome.

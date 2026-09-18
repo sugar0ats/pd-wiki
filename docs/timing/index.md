@@ -18,11 +18,11 @@ feels like the abstract part.
 
 ## Pages in this part
 
-1. **[STA basics]({{ site.baseurl }}/docs/timing/sta-basics/)** — what static timing
+1. **[STA basics]({{ site.baseurl }}/docs/timing/sta-basics.html)** — what static timing
    analysis is, setup and hold, slack, slew, and delay arcs.
-2. **[Clocks, skew, and latency]({{ site.baseurl }}/docs/timing/clocks/)** — ideal versus
+2. **[Clocks, skew, and latency]({{ site.baseurl }}/docs/timing/clocks.html)** — ideal versus
    propagated clocks, skew, insertion delay, uncertainty, and useful skew.
-3. **[Variation, corners, and analysis modes]({{ site.baseurl }}/docs/timing/variation/)** —
+3. **[Variation, corners, and analysis modes]({{ site.baseurl }}/docs/timing/variation.html)** —
    OCV and AOCV, PVT corners, MMMC, and PBA versus GBA.
 
 {: .note }

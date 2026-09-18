@@ -16,9 +16,9 @@ else. It builds up from transistors, walks the place-and-route flow in the order
 actually runs it, and ends at signoff and tapeout.
 {: .fs-5 .fw-300 }
 
-[Start with the fundamentals]({{ site.baseurl }}/docs/fundamentals/){: .btn .btn-primary }
-[Jump to the flow]({{ site.baseurl }}/docs/flow/asic-design-flow/){: .btn }
-[Glossary]({{ site.baseurl }}/docs/reference/glossary/){: .btn }
+[Start with the fundamentals]({{ site.baseurl }}/docs/fundamentals.html){: .btn .btn-primary }
+[Jump to the flow]({{ site.baseurl }}/docs/flow/asic-design-flow.html){: .btn }
+[Glossary]({{ site.baseurl }}/docs/reference/glossary.html){: .btn }
 
 ---
 

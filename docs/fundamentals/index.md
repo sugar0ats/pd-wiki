@@ -19,10 +19,10 @@ pre-built blocks that physical design actually manipulates.
 
 ## Pages in this part
 
-1. **[MOSFETs and CMOS logic]({{ site.baseurl }}/docs/fundamentals/mosfets-and-cmos/)** —
+1. **[MOSFETs and CMOS logic]({{ site.baseurl }}/docs/fundamentals/mosfets-and-cmos.html)** —
    the two transistor types, how they combine into gates, and where power and delay come
    from.
-2. **[Cells: standard, macro, and physical]({{ site.baseurl }}/docs/fundamentals/cells/)** —
+2. **[Cells: standard, macro, and physical]({{ site.baseurl }}/docs/fundamentals/cells.html)** —
    the objects a place-and-route tool moves around.
 
 {: .note }
