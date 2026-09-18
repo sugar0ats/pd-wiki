@@ -17,9 +17,9 @@ flow, and **what lands on your desk** when a block is handed to you.
 
 ## Pages in this part
 
-1. **[The ASIC design flow]({{ site.baseurl }}/docs/flow/asic-design-flow/)** — RTL to
+1. **[The ASIC design flow]({{ site.baseurl }}/docs/flow/asic-design-flow.html)** — RTL to
    GDSII end to end, and where the place-and-route steps fit.
-2. **[Design inputs and file formats]({{ site.baseurl }}/docs/flow/design-inputs/)** —
+2. **[Design inputs and file formats]({{ site.baseurl }}/docs/flow/design-inputs.html)** —
    netlist, SDC, LEF, Liberty, DEF, SPEF, SDF, CPF, and what each one is for.
 
 {: .tip }
