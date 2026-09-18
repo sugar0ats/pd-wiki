@@ -194,7 +194,7 @@ connection errors, shorts introduced by manual routing edits.
 Not from any specific interview, but each one exposes whether you understand a mechanism
 rather than a rule:
 
-- Why is a hold violation more serious than a setup violation?
+- Why is a setup violation more serious than a hold violation?
 - Why is the clock tree built *after* placement rather than before?
 - What is the difference between a corner and a mode, and why do you need several of each?
 - Why does GBA report violations that PBA does not?
